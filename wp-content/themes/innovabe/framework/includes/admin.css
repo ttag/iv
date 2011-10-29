@@ -1,0 +1,65 @@
+.koption label, #headerimg_div label{
+padding-right:4px; 
+width:370px; 
+text-align:right; 
+display:block; 
+float:left; 
+clear:left;
+padding-top:4px;
+font-weight:bold;
+}
+
+.koption label span, #headerimg_div label span{
+font-weight:normal;
+}
+
+.koption input, #headerimg_div input{
+width:300px;
+border:1px solid #ccc;
+padding:2px 3px;
+}
+
+#wpwrap #poststuff .centerme{
+	font-size:13px;
+	height:30px;
+	}
+
+.koption p{
+	height:40px;
+	clear:both;
+	}
+	
+.displaynone{
+	display:none;
+	}
+	
+#wpwrap #frontpage-blank{
+width:auto;
+border:none;
+padding:none;
+margin:6px 0 0 0;
+}
+
+.multitable{
+margin-top:15px;
+}
+
+.kriesi_options tbody th{
+width:200px;
+}
+
+.kcheck{
+margin-right:10px;
+}
+
+#wpbody-content .grouped th, #wpbody-content .grouped td{
+border-bottom:none;
+}
+
+#wpbody-content .no_height{
+padding:0;
+}
+
+.multiple_box select{
+max-width:200px;
+}

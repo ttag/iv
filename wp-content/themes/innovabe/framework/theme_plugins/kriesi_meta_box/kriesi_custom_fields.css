@@ -1,0 +1,43 @@
+.kriesi_meta_box_alt{
+background-color:#F9F9F9;
+border:1px solid #DFDFDF;
+margin-bottom:4px;
+position: relative;
+}
+
+.kriesi_meta_box_alt input, .kriesi_meta_box_alt select {
+margin-right:8px;
+}
+
+.kriesi_preview_pic{
+border:1px solid #DFDFDF;
+position:absolute;
+height:100px;
+width:100px;
+top:5px;
+right:5px;
+overflow: hidden;
+text-align: center;
+z-index: 1;
+}
+
+.kriesi_preview_pic img{
+height:100px;
+}
+
+.meta_box_media{
+height:112px;
+}
+
+.k_hijack{
+position: relative;
+z-index: 2;
+}
+
+.kriesi_meta_box_alt .kriesi_preview_pic_input{
+margin-bottom:15px;
+}
+
+.meta_box_media p{
+width:78%;
+}
